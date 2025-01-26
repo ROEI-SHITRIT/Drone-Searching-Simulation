@@ -13,8 +13,13 @@ This project, developed as part of a Bachelor's in Computer Science, demonstrate
 1. **Input Files**:
    - **File 1**: Forest boundaries, target point, and simulation iterations.
    - **File 2**: Drone details (type, initial position, speed).
+    ![image](https://github.com/user-attachments/assets/23236e53-5874-4e09-bf4e-fe75282aa171)
+      ![image](https://github.com/user-attachments/assets/349082ef-7423-4cd5-ba25-77e79a6f27be)
+
 2. **Output File**:
    - Final drone positions and the count of drones that reached the target.
+    ![image](https://github.com/user-attachments/assets/0086e019-d447-42d8-9a11-504ecfc80490)
+
 
 ## Highlights
 - Dynamic data structure for managing drones.
